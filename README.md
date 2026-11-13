@@ -1,0 +1,2 @@
+# reidcoin
+reidcoin
